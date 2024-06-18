@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qml/Lesopilka.qml</file>
+        <file>qml/pages/AboutPage.qml</file>
+        <file>qml/pages/BreedInputDialog.qml</file>
+        <file>qml/pages/DiameterInputDialog.qml</file>
+        <file>qml/pages/Field.qml</file>
+        <file>qml/pages/HeightInputDialog.qml</file>
+        <file>qml/pages/Location.qml</file>
+        <file>qml/pages/MainPage.qml</file>
+        <file>qml/pages/Menu.qml</file>
+    </qresource>
+</RCC>

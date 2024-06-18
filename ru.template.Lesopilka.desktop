@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.Lesopilka
+Exec=/usr/bin/ru.template.Lesopilka
+Name=Lesopilka
+Name[ru]=Лесопилка
+
+[X-Application]
+Permissions=Sensors;Documents;Location
+OrganizationName=ru.template
+ApplicationName=Lesopilka
+ExecDBus=/usr/bin/ru.template.Lesopilka
